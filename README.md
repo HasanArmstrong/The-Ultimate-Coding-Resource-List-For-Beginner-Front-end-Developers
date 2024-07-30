@@ -1,4 +1,4 @@
-# Front-End Developer Resource List
+# Front-End Developer Resource List For Beginners
 
 ## Documentation
 
